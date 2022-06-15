@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "com/sonoqka/openmcfoldermod/mixin/TitleScreenMixin": {
+      "initWidgetsNormal": "Lnet/minecraft/class_442;method_2249(II)V"
+    },
+    "com/sonoqka/openmcfoldermod/mixin/OpenMcFolderMixin": {
+      "init()V": "Lnet/minecraft/class_442;method_25426()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/sonoqka/openmcfoldermod/mixin/TitleScreenMixin": {
+        "initWidgetsNormal": "Lnet/minecraft/class_442;method_2249(II)V"
+      },
+      "com/sonoqka/openmcfoldermod/mixin/OpenMcFolderMixin": {
+        "init()V": "Lnet/minecraft/class_442;method_25426()V"
+      }
+    }
+  }
+}
